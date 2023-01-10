@@ -567,7 +567,7 @@ local angels = {
     "wood-bricks",
     "wood-charcoal",
     "wood-pellets",
-    "zinc-ore"
+    "zinc-ore",
 	-- Barreling and fluid control
     "empty-canister",
 	"gas-canister",
